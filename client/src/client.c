@@ -43,7 +43,7 @@ int main(void)
 
 	/* ---------------- LEER DE CONSOLA ---------------- */
 
-	//leer_consola(logger);
+	leer_consola(logger);
 
 	/*---------------------------------------------------PARTE 3-------------------------------------------------------------*/
 
@@ -111,7 +111,7 @@ void paquete(int conexion)
 	leido=readline(">");
 	while (string_is_empty(leido))
 	{
-		agregar_a_paquete(paquete,leido,sizeof(char*));
+		agregar_a_paquete(paquete,leido,strlen(leido)+1);
 		leido=readline(">");
 	}
 	
