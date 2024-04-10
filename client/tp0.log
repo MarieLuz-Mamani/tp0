@@ -1,0 +1,36 @@
+[INFO] 22:44:54:705 info/(58264:58264): Hola! Soy un log
+[INFO] 22:47:40:900 info/(58802:58802): Hola! Soy un log
+[INFO] 22:51:41:480 info/(59314:59314): Hola! Soy un log
+[INFO] 22:51:41:480 info/(59314:59314): valor
+[INFO] 23:09:06:772 info/(61962:61962): Hola! Soy un log
+[INFO] 23:09:06:773 info/(61962:61962): valor
+[INFO] 23:12:49:168 info/(62620:62620): Hola! Soy un log
+[INFO] 23:12:49:169 info/(62620:62620): valor
+[INFO] 23:42:34:425 info/(63343:63343): Hola! Soy un log
+[INFO] 23:42:34:426 info/(63343:63343): valor
+[INFO] 00:01:39:817 info/(65058:65058): Hola! Soy un log
+[INFO] 00:01:39:817 info/(65058:65058): El valor : valor
+[INFO] 00:05:02:157 info/(65876:65876): Hola! Soy un log
+[INFO] 00:05:02:157 info/(65876:65876): El valor : valor
+[INFO] 00:06:20:580 info/(66094:66094): Hola! Soy un log
+[INFO] 00:06:20:580 info/(66094:66094): El valor : valor
+[INFO] 00:16:46:903 info/(67333:67333): Hola! Soy un log
+[INFO] 00:16:46:904 info/(67333:67333): El valor : valor
+[INFO] 00:16:58:590 info/(67333:67333): olas
+[INFO] 00:17:01:806 info/(67333:67333): cambios
+[INFO] 00:17:04:554 info/(67333:67333): saltos
+[INFO] 00:20:41:251 info/(68076:68076): Hola! Soy un log
+[INFO] 00:20:41:251 info/(68076:68076): El valor : valor
+[INFO] 00:20:50:649 info/(68076:68076): casa
+[INFO] 02:14:48:876 Cliente/(80577:80577): Hola! Soy un log
+[INFO] 02:14:48:878 Cliente/(80577:80577): valor
+[INFO] 02:15:01:782 Cliente/(80577:80577): puerto=1234
+[INFO] 02:15:05:795 Cliente/(80577:80577): cambios
+[INFO] 02:15:08:670 Cliente/(80577:80577): fin
+[INFO] 02:24:03:642 Cliente/(82124:82124): Hola! Soy un log
+[INFO] 02:24:03:642 Cliente/(82124:82124): valor
+[INFO] 02:24:12:437 Cliente/(82124:82124): pack1
+[INFO] 02:24:16:404 Cliente/(82124:82124): pack2
+[INFO] 02:24:19:163 Cliente/(82124:82124): pack3
+[INFO] 02:26:29:572 Cliente/(82710:82710): Hola! Soy un log
+[INFO] 02:26:29:572 Cliente/(82710:82710): valor
