@@ -1,0 +1,70 @@
+[INFO] 13:32:10:830 logger/(21022:21022): Soy un Log
+[INFO] 13:32:10:830 logger/(21022:21022): valor
+[INFO] 13:51:37:842 logger/(22009:22009): Soy un Log
+[INFO] 13:51:37:842 logger/(22009:22009): valor
+[INFO] 13:58:08:790 logger/(22373:22373): Soy un Log
+[INFO] 13:58:08:790 logger/(22373:22373): valor
+[INFO] 13:58:13:597 logger/(22373:22373): Leido: cambios
+[INFO] 13:58:15:576 logger/(22373:22373): Leido: casas
+[INFO] 13:58:16:401 logger/(22373:22373): Leido: casc
+[INFO] 13:58:18:791 logger/(22373:22373): Leido: listo
+[INFO] 13:58:20:657 logger/(22373:22373): Leido: 
+[INFO] 13:58:22:537 logger/(22373:22373): Leido:  
+[INFO] 13:58:24:056 logger/(22373:22373): Leido: 
+[INFO] 13:58:28:004 logger/(22373:22373): Leido: fin
+[INFO] 13:58:32:731 logger/(22373:22373): Leido: 
+[INFO] 13:59:22:671 logger/(22822:22822): Soy un Log
+[INFO] 13:59:22:671 logger/(22822:22822): valor
+[INFO] 13:59:47:218 logger/(22822:22822): Leido: 112fsfasx
+[INFO] 13:59:50:875 logger/(22822:22822): Leido: 
+[INFO] 13:59:53:698 logger/(22822:22822): Leido: scasc
+[INFO] 14:00:03:968 logger/(22822:22822): Leido: casa
+[INFO] 14:00:05:335 logger/(22822:22822): Leido: 
+[INFO] 14:00:06:197 logger/(22822:22822): Leido: 
+[INFO] 14:00:06:485 logger/(22822:22822): Leido: 
+[INFO] 14:00:06:958 logger/(22822:22822): Leido: 
+[INFO] 14:00:07:235 logger/(22822:22822): Leido: 
+[INFO] 14:00:07:583 logger/(22822:22822): Leido: 
+[INFO] 14:00:07:860 logger/(22822:22822): Leido: 
+[INFO] 14:00:08:242 logger/(22822:22822): Leido: 
+[INFO] 14:01:15:018 logger/(23393:23393): Soy un Log
+[INFO] 14:01:15:018 logger/(23393:23393): valor
+[INFO] 14:01:26:107 logger/(23393:23393): Leido:linea1
+[INFO] 14:01:31:775 logger/(23393:23393): Leido:linea2
+[INFO] 14:01:33:607 logger/(23393:23393): Leido: 
+[INFO] 14:01:34:270 logger/(23393:23393): Leido:
+[INFO] 14:01:34:910 logger/(23393:23393): Leido:
+[INFO] 14:01:37:683 logger/(23393:23393): Leido:nada
+[INFO] 14:01:41:555 logger/(23393:23393): Leido:s
+[INFO] 14:01:42:180 logger/(23393:23393): Leido:
+[INFO] 14:01:42:816 logger/(23393:23393): Leido:s
+[INFO] 14:01:43:204 logger/(23393:23393): Leido:
+[INFO] 14:01:43:671 logger/(23393:23393): Leido:
+[INFO] 14:06:46:040 logger/(23919:23919): Soy un Log
+[INFO] 14:06:46:040 logger/(23919:23919): valor
+[INFO] 14:06:55:193 logger/(23919:23919): Leido:ff
+[INFO] 14:06:56:140 logger/(23919:23919): Leido:f
+[INFO] 15:01:15:841 logger/(25736:25736): Soy un Log
+[INFO] 15:01:15:841 logger/(25736:25736): valor
+[INFO] 15:02:21:157 logger/(26127:26127): Soy un Log
+[INFO] 15:02:21:157 logger/(26127:26127): valor
+[INFO] 15:03:23:935 logger/(26350:26350): Soy un Log
+[INFO] 15:03:23:935 logger/(26350:26350): valor
+[INFO] 15:04:23:110 logger/(26650:26650): Soy un Log
+[INFO] 15:04:23:110 logger/(26650:26650): valor
+[INFO] 15:05:21:205 logger/(26839:26839): Soy un Log
+[INFO] 15:05:21:205 logger/(26839:26839): valor
+[INFO] 15:06:02:788 logger/(27012:27012): Soy un Log
+[INFO] 15:06:02:788 logger/(27012:27012): valor
+[INFO] 15:06:07:054 logger/(27012:27012): Leido:d
+[INFO] 15:06:08:148 logger/(27012:27012): Leido:d
+[INFO] 15:16:43:624 logger/(28400:28400): Soy un Log
+[INFO] 15:16:43:624 logger/(28400:28400): valor
+[INFO] 15:16:56:072 logger/(28400:28400): Leido:hola
+[INFO] 15:16:57:964 logger/(28400:28400): Leido:xsasx
+[INFO] 15:17:42:754 logger/(28677:28677): Soy un Log
+[INFO] 15:17:42:754 logger/(28677:28677): valor
+[INFO] 15:17:50:880 logger/(28677:28677): Leido:calos
+[INFO] 15:17:51:974 logger/(28677:28677): Leido:s
+[INFO] 15:32:09:455 logger/(29968:29968): Soy un Log
+[INFO] 15:32:09:455 logger/(29968:29968): valor
